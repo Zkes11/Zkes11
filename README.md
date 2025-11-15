@@ -87,7 +87,7 @@ intereses:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎨 Sistema de Gestión de Campañas Publicitarias
 **🚧 En desarrollo activo**
@@ -105,7 +105,7 @@ Backend en **Go** con arquitectura modular
 ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🛒 Sistema E-commerce
 **🚧 Desarrollado**
@@ -121,6 +121,23 @@ Plataforma completa de comercio electrónico
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 [PythonEscape](https://github.com/Zkes11/pythonEscape-Demo)
+**📋 Demo disponible en GitHub**
+
+Aprende Python de manera divertida mientras resuelves desafíos y escapas de cada nivel
+
+**Características:**
+- 🎯 Aprende jugando
+- 💻 Desafíos de código
+- 🏆 Sistema de niveles
+- 📚 Tutoriales interactivos
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </td>
 </tr>
