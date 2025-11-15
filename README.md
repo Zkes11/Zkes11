@@ -1,72 +1,88 @@
-<h1 align="center">👋 Hola, soy Kevin Santiago Rodríguez Rojas</h1>
+<h1 align="center">✨ Hola, soy Kevin Santiago Rodríguez Rojas ✨</h1>
 
 <p align="center">
-  Estudiante de Ingeniería de Software | Desarrollador Web | Enfocado en Backend | Apasionado por la IA
+  <strong>Desarrollador Web | Backend en progreso | Estudiante de Ingeniería de Software | Apasionado por la IA</strong>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Mi nombre es **Kevin Santiago Rodríguez Rojas**, soy **estudiante de Ingeniería de Software** y desarrollador con experiencia en **Frontend** y **Backend**.  
+Soy **Kevin Santiago Rodríguez Rojas**, estudiante de **Ingeniería de Software** y desarrollador con experiencia en **Frontend** y **Backend**.  
+Tengo certificaciones en:
 
-Cuento con certificaciones en:
+- 🌐 Front-End Development  
+- 🧠 Inteligencia Artificial  
+- 🔢 Estructuras de Datos  
+- 🏗️ Patrones de Diseño  
+- 🧱 Arquitectura de Software  
 
-- **Desarrollo Front-End**
-- **Estructuras de Datos**
-- **Inteligencia Artificial**
-- **Patrones de Diseño**
-- **Arquitectura de Software**
+Actualmente estoy enfocado en el **desarrollo Backend**, donde trabajo en proyectos reales utilizando **Go**, **PHP** y **MySQL**, aplicando arquitectura por capas y buenas prácticas.
 
-Estas áreas me han permitido desarrollar una formación sólida y versátil para crear aplicaciones completas, funcionales y bien estructuradas.
-
----
-
-## 🚀 Qué hago actualmente
-
-Aunque tengo una base fuerte tanto en frontend como en backend, **mi enfoque actual está en el desarrollo Backend**, trabajando con lenguajes como **Go**, **PHP** y bases de datos **MySQL**.
-
-Estoy participando en proyectos reales que incluyen:
-
-- Diseño de APIs  
-- CRUDs completos  
-- Autenticación y seguridad básica  
-- Arquitectura modular por capas  
-- Integración Front-End ↔ Back-End ↔ Base de datos  
-
-Aun así, mantengo dominio en **Frontend**: HTML, CSS, JavaScript, React y diseño responsive.
+Aun así manejo bien el **Frontend** y puedo desenvolverme con HTML, CSS, JavaScript y React sin problema.
 
 ---
 
-## 🧠 Cómo trabajo
+## 🚀 Tecnologías que manejo
 
-No lo sé todo —y a veces olvido cosas como cualquier persona—  
-pero tengo algo que considero mi mayor fortaleza:
+### 🖥️ Lenguajes & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,php,python,js,mysql" />
+</p>
 
-### **Aprendo muy rápido y me adapto incluso a entornos completamente desconocidos.**
+### 🎨 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+</p>
 
-Me gusta resolver problemas, investigar, entender cómo funcionan las cosas y aplicar buenas prácticas en cualquier proyecto en el que esté.
+### 🛠️ Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🤖 Interés en Inteligencia Artificial
+## 📌 Qué hago actualmente
 
-La **IA** es una de mis grandes motivaciones.  
+- Construcción de **APIs en Go**
+- CRUDs completos y estructurados  
+- Autenticación y manejo de sesiones  
+- Arquitectura modular (rutas, controladores, servicios)
+- Integración Front → Back → Base de datos  
+- Desarrollo de interfaces responsivas en React y JavaScript  
+
+---
+
+## 🤖 Mi motivación por la IA
+
+La **Inteligencia Artificial** es uno de mis principales intereses.  
 A futuro quiero profundizar en:
 
-- Modelos de aprendizaje automático  
+- Machine Learning  
+- Modelos predictivos  
 - Sistemas inteligentes  
-- Data y Big Data  
+- Procesamiento de datos  
 - Integración de IA en aplicaciones reales  
 
-Entiendo que la IA es una de las áreas con mayor impacto en el futuro del software, y quiero formar parte de ese camino.
+Quiero orientar mi carrera a proyectos que combinen **software + IA + datos**.
 
 ---
 
-## 🎯 Objetivo
+## 🧠 Filosofía de aprendizaje
 
-Mi meta es convertirme en **Desarrollador Full Stack** con bases fuertes, seguir creciendo en el desarrollo backend y avanzar hacia proyectos que integren **Inteligencia Artificial** y soluciones escalables.
+No lo sé todo (y a veces se me olvidan cosas 😅),  
+pero tengo una fortaleza que me define:
+
+### **Aprendo rápido y me adapto incluso a tecnologías desconocidas.**
+
+Investigo, experimento y mejoro constantemente.
 
 ---
 
-<h3 align="center">✨ “Disciplina, consistencia y ganas de crecer. Así es como se construye un desarrollador.” ✨</h3>
+## 🎯 Objetivo profesional
+
+Convertirme en un **Desarrollador Full Stack** sólido y avanzar hacia proyectos que integren **Backend moderno**, **Arquitectura de Software** e **Inteligencia Artificial**.
+
+---
+
+<h3 align="center">✨ “Disciplina, consistencia y ganas de crecer. Así se construye un desarrollador.” ✨</h3>
