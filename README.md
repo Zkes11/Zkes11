@@ -15,7 +15,7 @@
 
 Soy un desarrollador apasionado por construir **soluciones escalables y eficientes**. 
 
-Actualmente enfocado en **desarrollo Backend** con Go y PHP, aplicando arquitectura por capas y buenas prácticas de diseño de software.
+Actualmente enfocado en **desarrollo Backend** con Go y PHP, y **desarrollo móvil multiplataforma** con Flutter, aplicando arquitectura por capas y buenas prácticas de diseño de software.
 
 ```yaml
 nombre: Kevin Santiago Rodríguez Rojas
@@ -24,12 +24,14 @@ rol: Backend Developer & Software Engineering Student
 enfoque:
   - Go
   - PHP
+  - Flutter
   - APIs RESTful
   - Clean Architecture
 intereses:
   - AI/ML
   - Data Science
   - System Design
+  - Mobile Development
 ```
 
 <br clear="right"/>
@@ -57,12 +59,15 @@ intereses:
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### Frontend
+### Frontend & Mobile
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -103,7 +108,7 @@ Backend en **Go** con arquitectura modular
 <td width="50%" valign="top">
 
 ### 🛒 Sistema E-commerce
-**🚧 En desarrollo**
+**🚧 Desarrollado**
 
 Plataforma completa de comercio electrónico
 
@@ -121,23 +126,6 @@ Plataforma completa de comercio electrónico
 </tr>
 </table>
 
-> 💡 **Nota:** Estos proyectos están en desarrollo activo. ¡Próximamente más actualizaciones!
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=FF6B6B&currStreakLabel=00ADD8" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=ffffff" alt="Top Languages"/>
-</div>
-
----
-
 ## 🎯 En qué estoy trabajando
 
 <table>
@@ -149,6 +137,7 @@ Plataforma completa de comercio electrónico
 - Docker & Kubernetes
 - gRPC
 - System Design
+- Flutter Avanzado
 
 </td>
 <td valign="top" width="50%">
@@ -157,17 +146,12 @@ Plataforma completa de comercio electrónico
 - API de generación de contenido con IA
 - Sistema de autenticación avanzado
 - Arquitectura hexagonal
+- Apps móviles multiplataforma
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
-
-#### 🔍 Explorando
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
 
 </td>
 <td valign="top" width="50%">
@@ -177,6 +161,7 @@ Plataforma completa de comercio electrónico
 - Clean Architecture
 - Testing & TDD
 - Performance optimization
+- UI/UX Mobile
 
 </td>
 </tr>
@@ -187,8 +172,6 @@ Plataforma completa de comercio electrónico
 ## 🤖 Mi Visión con IA
 
 <div align="center">
-
-> ### *"La Inteligencia Artificial no es solo el futuro, es el presente que estoy construyendo"*
 
 </div>
 
@@ -206,8 +189,6 @@ Me apasiona explorar cómo la IA puede transformar aplicaciones cotidianas en so
 </div>
 
 ---
-
-## 💡 Mi Filosofía
 
 <div align="center">
 
@@ -241,10 +222,10 @@ Investigo y mejoro constantemente
 </td>
 <td align="center" width="25%">
   
-### 💼
-**Aplico**
+### 📱
+**Full-stack**
 
-Lo aprendido en proyectos reales
+Backend, Web y Mobile
 
 </td>
 </tr>
@@ -304,7 +285,6 @@ graph LR
 **Mi ciclo de aprendizaje:**
 
 🎯 Aprender → 💻 Practicar → 📈 Mejorar → 🔁 Repetir
-
 
 </div>
 
