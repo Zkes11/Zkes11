@@ -3,7 +3,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Kevin%20Santiago%20Rodríguez%20Rojas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago11ro11@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573218609098)
 
 </div>
 
@@ -289,7 +288,6 @@ graph LR
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/santiago11ro11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago11ro11@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/+57_321_860_9098-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573218609098)
 
 </div>
 
