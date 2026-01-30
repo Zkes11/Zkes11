@@ -15,7 +15,6 @@
 Soy un desarrollador apasionado por construir **soluciones escalables y eficientes**. 
 
 Actualmente enfocado en **desarrollo Backend** con Go y PHP, y **desarrollo móvil multiplataforma** con Flutter, aplicando arquitectura por capas y buenas prácticas de diseño de software.
-
 ```yaml
 nombre: Kevin Santiago Rodríguez Rojas
 ubicación: Colombia 🇨🇴
@@ -57,6 +56,7 @@ intereses:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
@@ -72,8 +72,9 @@ intereses:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### Herramientas & Otros
+### Herramientas & Entorno
 <p>
+  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -100,7 +101,7 @@ Backend en **Go** con arquitectura modular
 - 🔄 Integración con IA para generación de imágenes
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
@@ -168,6 +169,12 @@ Aprende Python de manera divertida mientras resuelves desafíos y escapas de cad
 </tr>
 <tr>
 <td valign="top" width="50%">
+
+#### 🛠️ Entorno de Desarrollo
+- WSL (Windows Subsystem for Linux)
+- PostgreSQL en WSL
+- Git Bash & PowerShell
+- Desarrollo cross-platform
 
 </td>
 <td valign="top" width="50%">
@@ -264,24 +271,6 @@ Backend, Web y Mobile
 *Contribuyendo a proyectos que impacten positivamente a miles de usuarios*
 
 </div>
-
-### 📍 Mi Roadmap 2025
-
-```mermaid
-graph LR
-    A[Go Avanzado] --> B[Microservicios]
-    B --> C[Cloud AWS/GCP]
-    C --> D[Open Source]
-    D --> E[Tech Community]
-```
-
-- [ ] 🎯 Dominar Go a nivel avanzado
-- [ ] 🏗️ Implementar arquitectura de microservicios
-- [ ] ☁️ Certificación en Cloud (AWS/GCP)
-- [ ] 🌟 Desarrollar proyectos Open Source
-- [ ] 🤝 Contribuir a la comunidad tech
-
----
 
 ## 📫 Conecta Conmigo
 
