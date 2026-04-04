@@ -146,7 +146,7 @@ Sistema enterprise multi-tenant para gestión automatizada de campañas publicit
 </td>
 <td width="50%" valign="top">
 
-### 🏍️ MOTORS - E-commerce Modernizado
+### 🏍️ [MOTORS](https://github.com/Zkes11/MOTORS) - E-commerce Modernizado
 **✅ Desarrollado y Documentado**
 
 Plataforma e-commerce de motos premium con arquitectura moderna
@@ -178,7 +178,7 @@ Plataforma e-commerce de motos premium con arquitectura moderna
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 PythonEscape - Juego Educativo
+### 🎮 [PythonEscape](https://github.com/Zkes11/pythonEscape-Demo) - Juego Educativo
 **📋 Demo Disponible**
 
 Aprende Python jugando mientras resuelves desafíos y escapas de cada nivel
